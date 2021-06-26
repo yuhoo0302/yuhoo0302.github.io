@@ -10,7 +10,7 @@
 <meta name="google-site-verification" content="yy_3iiS_X6pJdegdwitJMrH0LRLHXwpjrV9RKLXxKjg" />
 <meta name="google-site-verification" content="yy_3iiS_X6pJdegdwitJMrH0LRLHXwpjrV9RKLXxKjg" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css">
-<title>Xin Yang , Shenzhen University</title>
+<title>Yuhao Huang , Shenzhen University</title>
 </head>
 <body>
 <div id="layout-content" style="margin-top:25px">
