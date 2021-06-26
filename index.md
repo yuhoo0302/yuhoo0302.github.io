@@ -12,26 +12,44 @@
 	
 <body>
 
-<table>
-	<tbody>
-		<tr>
-			<td width="670">
-				<div id="toptitle">					
-					<h1>Yuhao Huang</h1><h1>
-				</h1></div>
-
-
-				<p> 
-					<a href="https://scholar.google.com/citations?user=mciKo6MAAAAJ&hl=en">Google Scholar</a>&nbsp/&nbsp
-					<a href="https://github.com/yuhoo0302">GitHub</a>
-				</p>
-			</td>
-			<td>
-				<img src="./img/hi.png" border="0" width="240"><br>
-			</td>
-		</tr><tr>
-	</tr></tbody>
-</table>
+	
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Haoran Dou</name>
+              </p>
+              <p style="text-align:justify">I am a Ph.D. student in <a href="http://www.cistib.org/">CISTIB</a> at School of Computing, University of Leeds, supervised by <a href="https://eps.leeds.ac.uk/computing/staff/1535/professor-alejandro-f-frangi">Prof. Alejandro Frangi</a> and <a href="https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar">Dr. Nishant Ravikumar</a>. 
+              </p>
+              <p style="text-align:justify">
+               I am currently a postgraduate student in < a href="http://www.music-bme.net/">MUSIC</a> Lab at School of Biomedical Engineering, Health Science Center, Shenzhen University, supervised by < a href="http://bme.szu.edu.cn/20161/0326/55.html">Prof. Dong Ni</a>
+              </p>
+              <p style="text-align:center">
+                <a href="https://scholar.google.com/citations?user=mciKo6MAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://github.com/yuhoo0302">GitHub</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+          
+              <img style="width:100%;max-width:100%" alt="profile photo" src="img/name.jpg" class="hoverZoomLink">
+          
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+                My research interest is medical image computing. Specifically, I mainly focus on Reinforcement Learning in medical image analysis.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
 
 
 <h2>News</h2>
