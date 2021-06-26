@@ -96,7 +96,6 @@
 
 
 <h2> Selected Publications</a></h2>
-<!--<p><a href="http://scholar.google.com/citations?user=PeMuphgAAAAJ">My Google Scholar</a></p>-->
 <table id="tbPublications" width="100%">
 	<tbody>
 	<td><b>/*2021*/</b>
