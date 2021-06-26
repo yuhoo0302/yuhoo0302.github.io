@@ -81,7 +81,7 @@
 
 
 
-<h2> Selected Publications | <a href="https://scholar.google.com.hk/citations?user=AuOcVvkAAAAJ&hl=en">Google Scholar</a></h2>
+<h2> Selected Publications</a></h2>
 <!--<p><a href="http://scholar.google.com/citations?user=PeMuphgAAAAJ">My Google Scholar</a></p>-->
 <table id="tbPublications" width="100%">
 	<tbody>
