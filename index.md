@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>Haoran Dou</title>
+<title>Yuhao Huang</title>
   
 <meta name="author" content="Haoran Dou">
 <meta name="viewport" content="width=device-width, initial-scale=1">
