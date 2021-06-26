@@ -26,7 +26,7 @@
 
 
 				<p> 
-					<a href="https://scholar.google.com/citations?user=mciKo6MAAAAJ&hl=en">Google Scholar</a>
+					<a href="https://scholar.google.com/citations?user=mciKo6MAAAAJ&hl=en">Google Scholar</a>&nbsp/&nbsp
 					<a href="https://github.com/yuhoo0302">GitHub</a>
 				</p>
 			</td>
