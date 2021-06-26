@@ -21,10 +21,8 @@
           <tr style="padding:0px">
             <td style="padding:2.5%;width:63%;vertical-align:middle">
               <p style="text-align:center">
-                <name>Haoran Dou</name>
-              </p>
-              <p style="text-align:justify">I am a Ph.D. student in <a href="http://www.cistib.org/">CISTIB</a> at School of Computing, University of Leeds, supervised by <a href="https://eps.leeds.ac.uk/computing/staff/1535/professor-alejandro-f-frangi">Prof. Alejandro Frangi</a> and <a href="https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar">Dr. Nishant Ravikumar</a>. 
-              </p>
+                <name>Yuhao Huang</name>
+
               <p style="text-align:justify">
                I am currently a postgraduate student in < a href="http://www.music-bme.net/">MUSIC</a> Lab at School of Biomedical Engineering, Health Science Center, Shenzhen University, supervised by < a href="http://bme.szu.edu.cn/20161/0326/55.html">Prof. Dong Ni</a>
               </p>
@@ -35,7 +33,7 @@
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
           
-              <img style="width:100%;max-width:100%" alt="profile photo" src="img/name.jpg" class="hoverZoomLink">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="img/hi.jpg" class="hoverZoomLink">
           
             </td>
           </tr>
