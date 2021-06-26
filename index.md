@@ -24,7 +24,7 @@
                 <name>Yuhao Huang</name>
 
               <p style="text-align:justify">
-               I am currently a postgraduate student in < a href="http://www.music-bme.net/">MUSIC</a> Lab at School of Biomedical Engineering, Health Science Center, Shenzhen University, supervised by < a href="http://bme.szu.edu.cn/20161/0326/55.html">Prof. Dong Ni</a>
+               I am currently a postgraduate student in <a href="http://www.music-bme.net/">MUSIC</a> Lab at School of Biomedical Engineering, Health Science Center, Shenzhen University, supervised by < a href="http://bme.szu.edu.cn/20161/0326/55.html">Prof. Dong Ni</a>
               </p>
               <p style="text-align:center">
                 <a href="https://scholar.google.com/citations?user=mciKo6MAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
